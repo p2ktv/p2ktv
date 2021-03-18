@@ -1,4 +1,4 @@
-### Hey there, name's Paul 👋
+### Heyo 👋
 
 I mostly do the coding stuff here as hobby. I'm always trying to both learn new technologies, as well as improve in the ones I already know.
 
