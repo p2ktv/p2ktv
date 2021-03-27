@@ -4,8 +4,6 @@ I mostly do the coding stuff here as a hobby. I'm always trying to both learn ne
 
 Over the past few months, I mainly worked on [AutoMod](https://discord.com/oauth2/authorize?client_id=697487580522086431&scope=bot&permissions=403041534), a discord moderation/utility bot, as well as a few other little side projects & other things.
 
-I'm also interested in politics and, of course, gaming!
-
 ---
 
 <table>
