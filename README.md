@@ -1,3 +1,3 @@
 ### Heyo 👋
 
-I write terrible Python code in my free time
+I write terrible Python & Rust code in my free time
