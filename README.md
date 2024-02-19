@@ -1,6 +1,7 @@
-### Hey there 👋
+# Hey there 👋
 
-Name's Paul!
-- 💻 Currently working on AutoMod, a compact moderation bot
-- 🔎 Currently learning Rust and a few web frameworks
-- 📫 Contact: just shoot me a DM on Discord (PauL#0001) or Twitter 
+I'm a web developer who mostly works on backend technologies and data-driven services. Right now I'm working on [AutoMod](https://automod.xyz) and a few *secret* projects.
+
+### Want to support me?
+
+If you want to leave a small tip or donation, feel free to sponsor my [GitHub](https://github.com/sponsors/xezzz) or subscribe to [AutoMod Premium](https://automod.xyz/premium)!
