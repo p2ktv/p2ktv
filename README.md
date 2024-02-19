@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm a web developer who mostly works on backend technologies and data-driven services. Right now I'm working on [AutoMod](https://automod.xyz) and a few *secret* projects.
+I'm a web developer who mostly works on backend technologies and data-driven services. I'm currently working on [AutoMod](https://automod.xyz) & a few *secret* projects.
 
 ### Want to support me?
 
